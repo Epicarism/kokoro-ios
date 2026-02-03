@@ -1,6 +1,15 @@
 {
-  "originHash" : "6995a95a5fd6403a82fe9ad962d9f0b927e9c033322310a19b333bff1f345eb8",
+  "originHash" : "7fe8ab0dc1c58088d0fe6cac4c117552471bb1a987c94cf76d2dbf183958b134",
   "pins" : [
+    {
+      "identity" : "espeakngswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mlalma/eSpeakNGSwift",
+      "state" : {
+        "revision" : "abcdb0da7cd31a1f09c7a6830ba4447289685833",
+        "version" : "1.0.1"
+      }
+    },
     {
       "identity" : "misakiswift",
       "kind" : "remoteSourceControl",
